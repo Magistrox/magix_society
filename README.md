@@ -18,3 +18,7 @@ I present to you magix_society, a script allowing you to hire/transfer or make i
 - /facture - Make an invoice with your company name.
 
 A point for taking money out of your business account is available at Valentine's Bank.
+
+<b>Disclaimer</b>
+<br>
+The code may not be 100% optimized, if you have any adjustments/bugs don't hesitate!
