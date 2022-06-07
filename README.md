@@ -7,6 +7,7 @@ I present to you magix_society, a script allowing you to hire/transfer or make i
 <b>Installation</b>
 - `ensure magix_society` in your server.cfg
 - Upload SQL
+- Create your business account in table `society`.
 - Start your server
 
 <b>Command</b>
