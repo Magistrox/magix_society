@@ -13,7 +13,7 @@ I present to you magix_society, a script allowing you to hire/transfer or make i
 <b>Command</b>
 <br>
 *The commands are in French, you can change them directly in the `server.lua` file.*
-- /entreprise - Engage/fire from grade #2.
+- /entreprise - Hire/fire from grade #2.
 - /voirfacture - See your invoices.
 - /facture - Make an invoice with your company name.
 
