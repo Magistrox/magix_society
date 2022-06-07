@@ -1,4 +1,4 @@
-I present to you magix_society, a script allowing you to hire/transfer or make invoices with your company. The whole script is in French but easy to translate.
+I present to you magix_society, a script allowing you to hire/fire or make invoices with your company. The whole script is in French but easy to translate.
 
 <b>Requirement</b>
 - VORP_CORE
