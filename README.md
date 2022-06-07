@@ -6,6 +6,7 @@ I present to you magix_society, a script allowing you to hire/transfer or make i
 
 <b>Installation</b>
 - `ensure magix_society` in your server.cfg
+- Upload SQL
 - Start your server
 
 <b>Command</b>
